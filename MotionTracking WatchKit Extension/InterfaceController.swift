@@ -74,6 +74,7 @@ class InterfaceController: WKInterfaceController, WorkoutManagerDelegate {
             self.updateLabels();
         }
     }
+    
 
     // MARK: Convenience
     func updateLabels() {
